@@ -1,16 +1,44 @@
-## Hi there 👋
+# CC
 
-<!--
-**EddieHurryUp/EddieHurryUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+全栈开发 / 机器学习方向  
+关注工程落地、系统搭建与算法应用。  
+求职方向：开发、算法
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 背景
+- 浙江大学 控制科学与工程硕士（机器人与智能无人系统方向）
+- 中山大学 智能科学与技术本科
+
+---
+
+## 研究与项目
+- 神经网络不确定性量化（共形预测）
+- Transformer 神经算子用于复杂地形风场预测
+- 贝叶斯深度学习用于故障预测
+- 图神经网络鲁棒性与对抗防御研究
+
+---
+
+## 实习经历
+- 百度国际化产品研发中心（QA 实习）
+  - 负责平台功能质量保障与监控（结合深度学习算法平台）
+- 城市建筑冲击波参数预测项目（研究实习）
+  - 数值模拟 + 深度学习模型构建
+
+---
+
+## 技术栈
+Java · Spring Boot · PostgreSQL · React · Python · C/C++ · SQL
+
+---
+
+## 项目
+- 学生管理系统（全栈）
+  - 前端：https://eddiehurryup.github.io/student-api/
+  - 后端：https://student-api-production-bcac.up.railway.app
+
+---
+
+## 关键词
+工程化 · 算法落地 · 系统搭建 · 质量保障
